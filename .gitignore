@@ -156,3 +156,5 @@ $RECYCLE.BIN/
 **/wwwroot/lib/
 **/PublishProfiles/
 **/PublishScripts/
+
+.vscode/
